@@ -1,0 +1,1972 @@
+[
+  {
+    "country": "United States of America",
+    "clues": [
+      "National parks on a vast scale",
+      "Strong culture of road trips",
+      "Hollywood influence",
+      "Diverse regional cuisines",
+      "Silicon Valley innovation"
+    ]
+  },
+  {
+    "country": "Canada",
+    "clues": [
+      "Maple syrup tradition",
+      "Bilingual national identity",
+      "Vast wilderness",
+      "Ice hockey passion",
+      "Long snowy winters"
+    ]
+  },
+  {
+    "country": "Mexico",
+    "clues": [
+      "Ancient pyramid civilizations",
+      "Rich chili-based cuisine",
+      "Day of the Dead traditions",
+      "Colorful folk art",
+      "Desert and tropical landscapes"
+    ]
+  },
+  {
+    "country": "Panama",
+    "clues": [
+      "A bridge between continents",
+      "Famous global trade route",
+      "Tropical biodiversity",
+      "Strong maritime importance",
+      "A country connecting oceans"
+    ]
+  },
+  {
+    "country": "Haiti",
+    "clues": [
+      "French and Creole influence",
+      "Colorful artistic traditions",
+      "Mountainous Caribbean landscapes",
+      "Historic fight for independence",
+      "Vibrant rhythmic culture"
+    ]
+  },
+  {
+    "country": "Jamaica",
+    "clues": [
+      "Laid-back island culture",
+      "Global music influence",
+      "Blue Mountain landscapes",
+      "Track and sprinting excellence",
+      "Spiced island cuisine"
+    ]
+  },
+  {
+    "country": "Peru",
+    "clues": [
+      "Ancient mountain civilization",
+      "Alpacas in highlands",
+      "Rich textile traditions",
+      "Diverse ecosystems",
+      "Potato heritage"
+    ]
+  },
+    {
+    "country": "Antigua and Barbuda",
+    "clues": [
+      "Twin-island nation",
+      "Caribbean sailing culture",
+      "Known for many beaches",
+      "Cricket enthusiasm",
+      "Coral reef coastlines"
+    ]
+  },
+  {
+    "country": "Saint Lucia",
+    "clues": [
+      "Volcanic island landscapes",
+      "French and British influence",
+      "Home to iconic twin peaks",
+      "Caribbean Creole culture",
+      "Tropical rainforest scenery"
+    ]
+  },
+  {
+    "country": "Cuba",
+    "clues": [
+      "Classic vintage cars",
+      "Strong cigar tradition",
+      "Spanish colonial architecture",
+      "Distinctive dance culture",
+      "Island known for revolutionary history"
+    ]
+  },
+  {
+    "country": "Grenada",
+    "clues": [
+      "Known as the Spice Isle",
+      "Nutmeg production",
+      "Caribbean island nation",
+      "Volcanic landscapes",
+      "Underwater sculpture park"
+    ]
+  },
+  {
+    "country": "El Salvador",
+    "clues": [
+      "Pacific coastline",
+      "Volcanic terrain",
+      "Uses the US dollar",
+      "Strong surfing culture",
+      "Smallest country in Central America"
+    ]
+  },
+  {
+    "country": "Dominica",
+    "clues": [
+      "Nicknamed the Nature Island",
+      "Volcanic hot springs",
+      "Lush rainforest landscapes",
+      "Caribbean island nation",
+      "Home to one of the world's largest boiling lakes"
+    ]
+  },
+  {
+    "country": "Colombia",
+    "clues": [
+      "World-famous coffee culture",
+      "Caribbean and Pacific coastlines",
+      "Rich biodiversity",
+      "Emerald production",
+      "Strong salsa influence"
+    ]
+  },
+  {
+    "country": "Venezuela",
+    "clues": [
+      "Home to the world's tallest waterfall",
+      "Oil-rich economy",
+      "Caribbean coastline",
+      "Tepui mountain landscapes",
+      "Baseball popularity"
+    ]
+  },
+  {
+    "country": "Honduras",
+    "clues": [
+      "Ancient Maya heritage",
+      "Caribbean and Pacific access",
+      "Tropical biodiversity",
+      "Bay Islands tourism",
+      "Coffee-growing tradition"
+    ]
+  },
+  {
+    "country": "Guyana",
+    "clues": [
+      "English-speaking South American nation",
+      "Dense rainforest cover",
+      "Caribbean cultural ties",
+      "Famous giant waterfall",
+      "Strong cricket culture"
+    ]
+  },
+  {
+    "country": "Guatemala",
+    "clues": [
+      "Ancient Maya civilization",
+      "Volcanic landscapes",
+      "Colorful woven textiles",
+      "Coffee-growing tradition",
+      "Many indigenous languages"
+    ]
+  },
+  {
+    "country": "Bolivia",
+    "clues": [
+      "High-altitude landscapes",
+      "Large indigenous population",
+      "Landlocked South American nation",
+      "Salt flats attracting tourists",
+      "Colorful Andean traditions"
+    ]
+  },
+  {
+    "country": "Argentina",
+    "clues": [
+      "Passion for football",
+      "Famous beef culture",
+      "Tango heritage",
+      "Patagonian landscapes",
+      "Mate drinking tradition"
+    ]
+  },
+  {
+    "country": "Bahamas",
+    "clues": [
+      "Turquoise island waters",
+      "Famous swimming pigs",
+      "Large tourism economy",
+      "Atlantic archipelago",
+      "Cruise ship destination"
+    ]
+  },
+  {
+    "country": "Brazil",
+    "clues": [
+      "Passion for football",
+      "Vast rainforest territory",
+      "Carnival celebrations",
+      "Portuguese-speaking nation",
+      "Coffee production"
+    ]
+  },
+  {
+    "country": "Costa Rica",
+    "clues": [
+      "Strong eco-tourism culture",
+      "No standing army",
+      "Rich biodiversity",
+      "Volcanic landscapes",
+      "Pura Vida lifestyle"
+    ]
+  },
+  {
+    "country": "Belize",
+    "clues": [
+      "English-speaking Central American nation",
+      "Barrier reef tourism",
+      "Maya archaeological sites",
+      "Caribbean cultural influence",
+      "Dense tropical forests"
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "clues": [
+      "Large freshwater lakes",
+      "Volcanic landscapes",
+      "Pacific and Caribbean access",
+      "Strong coffee tradition",
+      "Land of lakes and volcanoes"
+    ]
+  },
+  {
+    "country": "Chile",
+    "clues": [
+      "Extremely long coastline",
+      "Home to one of the driest deserts",
+      "Andean mountain landscapes",
+      "Wine production",
+      "Long narrow geography"
+    ]
+  },
+  {
+    "country": "Seychelles",
+    "clues": [
+      "Indian Ocean archipelago",
+      "Granite island formations",
+      "Luxury beach tourism",
+      "Unique giant tortoises",
+      "Small island nation"
+    ]
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "clues": [
+      "Twin-island nation",
+      "Steelpan music heritage",
+      "Carnival celebrations",
+      "Oil and natural gas economy",
+      "Cricket enthusiasm"
+    ]
+  },
+  {
+    "country": "Paraguay",
+    "clues": [
+      "Landlocked South American nation",
+      "Guaraní language influence",
+      "Large hydroelectric power production",
+      "Traditional herbal drink culture",
+      "Rich agricultural economy"
+    ]
+  },
+  {
+    "country": "Uruguay",
+    "clues": [
+      "Mate drinking tradition",
+      "Strong football culture",
+      "Known for cattle ranching",
+      "Progressive social policies",
+      "Atlantic coastline"
+    ]
+  },
+  {
+    "country": "Suriname",
+    "clues": [
+      "Small South American nation",
+      "Dense rainforest cover",
+      "Dutch colonial influence",
+      "Culturally diverse population",
+      "Tropical river landscapes"
+    ]
+  },
+  {
+    "country": "Dominican Republic",
+    "clues": [
+      "Caribbean tourism hotspot",
+      "Shares an island with another country",
+      "Baseball popularity",
+      "Spanish colonial heritage",
+      "Merengue music tradition"
+    ]
+  },
+  {
+    "country": "Barbados",
+    "clues": [
+      "Coral island landscapes",
+      "Cricket enthusiasm",
+      "Caribbean island nation",
+      "Rum-making tradition",
+      "British cultural influence"
+    ]
+  },
+  {
+    "country": "Norway",
+    "clues": [
+      "Fjord landscapes",
+      "Strong maritime traditions",
+      "Northern Lights visibility",
+      "Large sovereign wealth fund",
+      "Winter sports culture"
+    ]
+  },
+  {
+    "country": "Sweden",
+    "clues": [
+      "Strong design culture",
+      "Extensive welfare system",
+      "Forest-rich landscapes",
+      "Known for pop music influence",
+      "Fika coffee tradition"
+    ]
+  },
+  {
+    "country": "Iceland",
+    "clues": [
+      "Geothermal energy use",
+      "Volcanic island nation",
+      "Northern Lights visibility",
+      "Few trees across landscapes",
+      "Hot spring bathing culture"
+    ]
+  },
+  {
+    "country": "Finland",
+    "clues": [
+      "Sauna culture",
+      "Thousands of lakes",
+      "Strong education reputation",
+      "Northern Lights visibility",
+      "Coffee-loving population"
+    ]
+  },
+  {
+    "country": "Armenia",
+    "clues": [
+      "Ancient Christian heritage",
+      "Mountainous landscapes",
+      "Rich stone architecture",
+      "Apricot symbolism",
+      "Landlocked Caucasus nation"
+    ]
+  },
+  {
+    "country": "Georgia",
+    "clues": [
+      "Mountainous Caucasus landscapes",
+      "Ancient wine-making tradition",
+      "Distinctive alphabet",
+      "Famous hospitality culture",
+      "Crossroads of Europe and Asia"
+    ]
+  },
+  {
+    "country": "Estonia",
+    "clues": [
+      "Strong digital society",
+      "Forest-rich landscapes",
+      "Baltic Sea coastline",
+      "Finno-Ugric language roots",
+      "Medieval old town heritage"
+    ]
+  },
+  {
+    "country": "Switzerland",
+    "clues": [
+      "Mountain railway systems",
+      "Multilingual national identity",
+      "Strong banking reputation",
+      "Alpine landscapes",
+      "Famous chocolate tradition"
+    ]
+  },
+  {
+    "country": "Austria",
+    "clues": [
+      "Classical music heritage",
+      "Alpine landscapes",
+      "Coffeehouse culture",
+      "Historic imperial legacy",
+      "German-speaking nation"
+    ]
+  },
+  {
+    "country": "Belgium",
+    "clues": [
+      "Multilingual national identity",
+      "Known for waffles and chocolate",
+      "Comic book culture",
+      "Strong cycling tradition",
+      "Important European institutions"
+    ]
+  },
+  {
+    "country": "Slovakia",
+    "clues": [
+      "Mountain castle landscapes",
+      "Central European nation",
+      "Carpathian mountain region",
+      "Traditional folk culture",
+      "Landlocked country"
+    ]
+  },
+  {
+    "country": "Italy",
+    "clues": [
+      "Ancient Roman legacy",
+      "Passion for regional cuisine",
+      "Famous fashion influence",
+      "Mediterranean coastline",
+      "Renaissance heritage"
+    ]
+  },
+  {
+    "country": "North Macedonia",
+    "clues": [
+      "Landlocked Balkan nation",
+      "Mountainous landscapes",
+      "Lake tourism",
+      "Ottoman historical influence",
+      "Rich Orthodox Christian heritage"
+    ]
+  },
+  {
+    "country": "Poland",
+    "clues": [
+      "Strong Catholic heritage",
+      "Pierogi cuisine tradition",
+      "Historic resilience through invasions",
+      "Central European landscapes",
+      "Rich classical music legacy"
+    ]
+  },
+  {
+    "country": "Romania",
+    "clues": [
+      "Carpathian mountain landscapes",
+      "Rich folklore traditions",
+      "Historic castle culture",
+      "Latin-rooted language",
+      "Known for large forest regions"
+    ]
+  },
+  {
+    "country": "Yemen",
+    "clues": [
+      "Ancient trade route history",
+      "Distinctive tower-house architecture",
+      "Coffee heritage",
+      "Arabian Peninsula nation",
+      "Mountain and desert landscapes"
+    ]
+  },
+  {
+    "country": "Albania",
+    "clues": [
+      "Mountainous Balkan landscapes",
+      "Mediterranean coastline",
+      "Unique language branch",
+      "Strong hospitality traditions",
+      "Historic Ottoman influence"
+    ]
+  },
+  {
+    "country": "Ireland",
+    "clues": [
+      "Green countryside landscapes",
+      "Strong storytelling tradition",
+      "Gaelic cultural roots",
+      "Pub and folk music culture",
+      "Island nation in Europe"
+    ]
+  },
+  {
+    "country": "Russia",
+    "clues": [
+      "Largest country by land area",
+      "Long harsh winters",
+      "Transcontinental nation",
+      "Rich literary tradition",
+      "Vast forest regions"
+    ]
+  },
+  {
+    "country": "Oman",
+    "clues": [
+      "Frankincense heritage",
+      "Arabian Peninsula nation",
+      "Desert and coastal landscapes",
+      "Historic maritime trade",
+      "Mountainous terrain"
+    ]
+  },
+  {
+    "country": "Bulgaria",
+    "clues": [
+      "Cyrillic script heritage",
+      "Rose oil production",
+      "Balkan mountain landscapes",
+      "Yogurt-making traditions",
+      "Black Sea coastline"
+    ]
+  },
+  {
+    "country": "Saudi Arabia",
+    "clues": [
+      "Vast desert landscapes",
+      "Birthplace of Islam",
+      "Large oil reserves",
+      "Ancient caravan trade routes",
+      "Strong coffee hospitality traditions"
+    ]
+  },
+  {
+    "country": "Hungary",
+    "clues": [
+      "Thermal bath culture",
+      "Paprika-heavy cuisine",
+      "Landlocked Central European nation",
+      "Rich classical music heritage",
+      "Unique language family"
+    ]
+  },
+  {
+    "country": "Cyprus",
+    "clues": [
+      "Mediterranean island nation",
+      "Divided political history",
+      "Strong Greek and Turkish influences",
+      "Ancient mythological associations",
+      "Known for halloumi cheese"
+    ]
+  },
+  {
+    "country": "Iraq",
+    "clues": [
+      "Land between two rivers",
+      "Ancient Mesopotamian heritage",
+      "Oil-rich economy",
+      "Historic cradle of civilization",
+      "Desert and fertile plains"
+    ]
+  },
+  {
+    "country": "Iran",
+    "clues": [
+      "Persian carpet tradition",
+      "Rich poetic heritage",
+      "Saffron production",
+      "Ancient empire legacy",
+      "Tea culture"
+    ]
+  },
+  {
+    "country": "Syria",
+    "clues": [
+      "Ancient crossroads of civilizations",
+      "Historic Silk Road connections",
+      "Levantine cuisine traditions",
+      "Rich archaeological heritage",
+      "Mediterranean and desert landscapes"
+    ]
+  },
+  {
+    "country": "Lebanon",
+    "clues": [
+      "Mediterranean coastline",
+      "Famous cedar symbolism",
+      "Rich café culture",
+      "Levantine cuisine traditions",
+      "Mountain and coastal landscapes"
+    ]
+  },
+  {
+    "country": "Israel",
+    "clues": [
+      "Ancient religious significance",
+      "Mediterranean coastline",
+      "Strong startup culture",
+      "Desert and fertile regions",
+      "Dead Sea proximity"
+    ]
+  },
+  {
+    "country": "Jordan",
+    "clues": [
+      "Desert landscapes",
+      "Historic trade route heritage",
+      "Home to an ancient rock-cut city",
+      "Dead Sea proximity",
+      "Levantine cultural influence"
+    ]
+  },
+  {
+    "country": "United Arab Emirates",
+    "clues": [
+      "Rapid urban development",
+      "Desert landscapes",
+      "Luxury tourism reputation",
+      "Strong aviation connections",
+      "Federation of emirates"
+    ]
+  },
+  {
+    "country": "Kuwait",
+    "clues": [
+      "Oil-rich economy",
+      "Arabian Gulf coastline",
+      "Historic pearl-diving tradition",
+      "Desert climate",
+      "Small but wealthy nation"
+    ]
+  },
+  {
+    "country": "Bahrain",
+    "clues": [
+      "Island nation in the Gulf",
+      "Historic pearl-diving heritage",
+      "Financial services economy",
+      "Connected by a major causeway",
+      "Desert island landscapes"
+    ]
+  },
+  {
+    "country": "Netherlands",
+    "clues": [
+      "Extensive cycling culture",
+      "Land reclaimed from water",
+      "Canal-filled cities",
+      "Strong flower export industry",
+      "Windmill heritage"
+    ]
+  },
+  {
+    "country": "Luxembourg",
+    "clues": [
+      "Small landlocked European nation",
+      "Multilingual society",
+      "Strong financial sector",
+      "Historic fortress heritage",
+      "One of the world's wealthiest countries"
+    ]
+  },
+  {
+    "country": "Germany",
+    "clues": [
+      "Strong engineering reputation",
+      "Rich classical music heritage",
+      "Forest-rich landscapes",
+      "Famous Christmas markets",
+      "Football enthusiasm"
+    ]
+  },
+  {
+    "country": "Portugal",
+    "clues": [
+      "Atlantic coastline",
+      "Historic maritime exploration",
+      "Fado music tradition",
+      "Famous tilework architecture",
+      "Strong seafood cuisine"
+    ]
+  },
+  {
+    "country": "France",
+    "clues": [
+      "Strong café culture",
+      "Global influence in fashion",
+      "Rich wine-making tradition",
+      "Historic artistic heritage",
+      "Diverse regional cuisine"
+    ]
+  },
+  {
+    "country": "United Kingdom",
+    "clues": [
+      "Tea-drinking culture",
+      "Historic monarchy",
+      "Island nation in Europe",
+      "Strong literary heritage",
+      "Football tradition"
+    ]
+  },
+  {
+    "country": "Denmark",
+    "clues": [
+      "Cycling-friendly cities",
+      "Strong welfare system",
+      "Hygge lifestyle concept",
+      "Flat coastal landscapes",
+      "Historic Viking connections"
+    ]
+  },
+  {
+    "country": "Spain",
+    "clues": [
+      "Passion for football",
+      "Mediterranean lifestyle",
+      "Tapas culture",
+      "Historic Moorish influence",
+      "Regional language diversity"
+    ]
+  },
+  {
+    "country": "Ukraine",
+    "clues": [
+      "Vast agricultural plains",
+      "Sunflower symbolism",
+      "Strong folk music traditions",
+      "Eastern European nation",
+      "Rich bread-making culture"
+    ]
+  },
+  {
+    "country": "Andorra",
+    "clues": [
+      "Tiny mountain nation",
+      "Pyrenees landscapes",
+      "Popular skiing destination",
+      "Landlocked microstate",
+      "Known for duty-free shopping"
+    ]
+  },
+  {
+    "country": "Croatia",
+    "clues": [
+      "Adriatic coastline",
+      "Thousands of islands",
+      "Historic stone towns",
+      "Mediterranean and Balkan influences",
+      "Strong football culture"
+    ]
+  },
+  {
+    "country": "Moldova",
+    "clues": [
+      "Strong wine-making tradition",
+      "Landlocked Eastern European nation",
+      "Rich agricultural economy",
+      "Romanian language influence",
+      "Known for rural landscapes"
+    ]
+  },
+  {
+    "country": "Czechia",
+    "clues": [
+      "Historic castle architecture",
+      "Strong beer culture",
+      "Central European nation",
+      "Known for medieval town squares",
+      "Landlocked country"
+    ]
+  },
+  {
+    "country": "Kosovo",
+    "clues": [
+      "Young European nation",
+      "Mountainous Balkan landscapes",
+      "Strong Albanian cultural influence",
+      "Landlocked territory",
+      "Historic Ottoman influence"
+    ]
+  },
+  {
+    "country": "Belarus",
+    "clues": [
+      "Forest-rich landscapes",
+      "Landlocked Eastern European nation",
+      "Strong Soviet-era influence",
+      "Known for wetlands and marshes",
+      "Potato-heavy cuisine"
+    ]
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "clues": [
+      "Mountainous Balkan landscapes",
+      "Ottoman and Austro-Hungarian influence",
+      "Religious diversity",
+      "Historic stone bridges",
+      "Strong coffee culture"
+    ]
+  },
+  {
+    "country": "Slovenia",
+    "clues": [
+      "Alpine and Mediterranean influences",
+      "Lake and cave tourism",
+      "Forest-rich landscapes",
+      "Small Central European nation",
+      "Strong outdoor adventure culture"
+    ]
+  },
+  {
+    "country": "Montenegro",
+    "clues": [
+      "Adriatic coastline",
+      "Mountainous landscapes",
+      "Small Balkan nation",
+      "Historic coastal towns",
+      "Strong Orthodox Christian heritage"
+    ]
+  },
+  {
+    "country": "Latvia",
+    "clues": [
+      "Baltic Sea coastline",
+      "Forest-rich landscapes",
+      "Strong folk song traditions",
+      "Known for midsummer celebrations",
+      "Historic Hanseatic influence"
+    ]
+  },
+  {
+    "country": "Azerbaijan",
+    "clues": [
+      "Crossroads of Europe and Asia",
+      "Oil and gas economy",
+      "Land of Fire nickname",
+      "Caspian Sea coastline",
+      "Rich carpet-making traditions"
+    ]
+  },
+  {
+    "country": "San Marino",
+    "clues": [
+      "Tiny European microstate",
+      "Mountain-top historic sites",
+      "Landlocked nation surrounded by another country",
+      "One of the world's oldest republics",
+      "Historic fortress heritage"
+    ]
+  },
+  {
+    "country": "Maldives",
+    "clues": [
+      "Low-lying island nation",
+      "Luxury overwater tourism",
+      "Indian Ocean archipelago",
+      "Coral reef ecosystems",
+      "Threatened by rising sea levels"
+    ]
+  },
+  {
+    "country": "Vanuatu",
+    "clues": [
+      "Pacific island nation",
+      "Volcanic landscapes",
+      "Rich linguistic diversity",
+      "Strong traditional village culture",
+      "Cyclone-prone region"
+    ]
+  },
+  {
+    "country": "Serbia",
+    "clues": [
+      "Landlocked Balkan nation",
+      "Strong Orthodox Christian heritage",
+      "Historic fortress culture",
+      "Passion for basketball and tennis",
+      "Ottoman and Austro-Hungarian influences"
+    ]
+  },
+  {
+    "country": "Kiribati",
+    "clues": [
+      "Pacific island nation",
+      "Scattered across a vast ocean area",
+      "Low-lying coral atolls",
+      "Among the first places to see a new day",
+      "Threatened by rising sea levels"
+    ]
+  },
+  {
+    "country": "Micronesia",
+    "clues": [
+      "Pacific island nation",
+      "Made up of many islands",
+      "Strong ocean navigation traditions",
+      "Tropical marine biodiversity",
+      "Compact states federation"
+    ]
+  },
+  {
+    "country": "Marshall Islands",
+    "clues": [
+      "Pacific island nation",
+      "Coral atoll landscapes",
+      "Strong ties with the United States",
+      "History of nuclear testing nearby",
+      "Vulnerable to rising sea levels"
+    ]
+  },
+  {
+    "country": "Tuvalu",
+    "clues": [
+      "Tiny Pacific island nation",
+      "Low-lying coral atolls",
+      "Threatened by rising sea levels",
+      "Very small population",
+      "Remote oceanic location"
+    ]
+  },
+  {
+    "country": "Timor-Leste",
+    "clues": [
+      "Southeast Asian island nation",
+      "Coffee-growing tradition",
+      "Portuguese language influence",
+      "Mountainous landscapes",
+      "One of Asia's youngest countries"
+    ]
+  },
+  {
+    "country": "Palau",
+    "clues": [
+      "Pacific island nation",
+      "Famous marine biodiversity",
+      "Rock island formations",
+      "Strong diving tourism",
+      "Small island population"
+    ]
+  },
+  {
+    "country": "Equatorial Guinea",
+    "clues": [
+      "Central African nation",
+      "Spanish language influence",
+      "Oil-rich economy",
+      "Mainland and island territories",
+      "Tropical rainforest landscapes"
+    ]
+  },
+  {
+    "country": "Malaysia",
+    "clues": [
+      "Multicultural society",
+      "Tropical rainforest biodiversity",
+      "Malay, Chinese, and Indian influences",
+      "Known for street food culture",
+      "Mainland and island territories"
+    ]
+  },
+  {
+    "country": "Cabo Verde",
+    "clues": [
+      "Atlantic island nation",
+      "Volcanic island landscapes",
+      "Portuguese language influence",
+      "Music-rich culture",
+      "African and European influences"
+    ]
+  },
+  {
+    "country": "New Zealand",
+    "clues": [
+      "Island nation in the Pacific",
+      "Strong rugby culture",
+      "Dramatic mountain landscapes",
+      "Māori cultural heritage",
+      "Famous for sheep farming"
+    ]
+  },
+  {
+    "country": "Cambodia",
+    "clues": [
+      "Ancient Khmer heritage",
+      "Tropical Southeast Asian nation",
+      "Strong Buddhist influence",
+      "Rice-growing traditions",
+      "Historic temple architecture"
+    ]
+  },
+  {
+    "country": "Samoa",
+    "clues": [
+      "Pacific island nation",
+      "Strong Polynesian traditions",
+      "Tropical volcanic landscapes",
+      "Village-based culture",
+      "Rugby popularity"
+    ]
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "clues": [
+      "Small island nation near Africa",
+      "Portuguese language influence",
+      "Volcanic island landscapes",
+      "Cocoa production",
+      "Tropical biodiversity"
+    ]
+  },
+  {
+    "country": "India",
+    "clues": [
+      "Linguistic diversity on a massive scale",
+      "Rich spice traditions",
+      "Deep spiritual heritage",
+      "Festival-rich culture",
+      "Large film industry influence"
+    ]
+  },
+  {
+    "country": "Pakistan",
+    "clues": [
+      "Mountain ranges including some of the world's highest peaks",
+      "Strong cricket culture",
+      "Rich Mughal heritage",
+      "Urdu literary traditions",
+      "Famous truck art"
+    ]
+  },
+  {
+    "country": "Myanmar",
+    "clues": [
+      "Golden pagoda landscapes",
+      "Strong Buddhist influence",
+      "Rich teak forest resources",
+      "Southeast Asian nation",
+      "Traditional longyi clothing"
+    ]
+  },
+  {
+    "country": "Afghanistan",
+    "clues": [
+      "Mountainous landscapes",
+      "Historic Silk Road connections",
+      "Landlocked nation",
+      "Rich carpet-making traditions",
+      "Crossroads of empires"
+    ]
+  },
+  {
+    "country": "North Korea",
+    "clues": [
+      "Highly isolated nation",
+      "Strong state-controlled culture",
+      "Mountainous landscapes",
+      "Korean Peninsula nation",
+      "Distinctive mass performances"
+    ]
+  },
+  {
+    "country": "Bhutan",
+    "clues": [
+      "Mountain kingdom",
+      "Focus on Gross National Happiness",
+      "Strong Buddhist traditions",
+      "High-altitude landscapes",
+      "Traditional fortress monasteries"
+    ]
+  },
+  {
+    "country": "Indonesia",
+    "clues": [
+      "World's largest island nation",
+      "Volcanic landscapes",
+      "Rich cultural diversity",
+      "Large tropical rainforest regions",
+      "Famous spice trade history"
+    ]
+  },
+  {
+    "country": "Kyrgyzstan",
+    "clues": [
+      "Mountainous Central Asian nation",
+      "Nomadic traditions",
+      "Yurt culture",
+      "Horse-centered lifestyle",
+      "High-altitude lakes"
+    ]
+  },
+  {
+    "country": "Brunei",
+    "clues": [
+      "Small but wealthy nation",
+      "Oil-rich economy",
+      "Borneo island location",
+      "Strong Islamic influence",
+      "Rainforest-rich landscapes"
+    ]
+  },
+  {
+    "country": "Kazakhstan",
+    "clues": [
+      "Vast steppe landscapes",
+      "Nomadic heritage",
+      "Largest landlocked country",
+      "Horse culture traditions",
+      "Space launch history"
+    ]
+  },
+  {
+    "country": "Vietnam",
+    "clues": [
+      "Long narrow geography",
+      "Motorbike-heavy cities",
+      "Rice terrace landscapes",
+      "Coffee-growing tradition",
+      "Strong street food culture"
+    ]
+  },
+  {
+    "country": "China",
+    "clues": [
+      "Tea culture heritage",
+      "Large linguistic diversity",
+      "Ancient dynastic history",
+      "Rich calligraphy traditions",
+      "One of the world's oldest civilizations"
+    ]
+  },
+  {
+    "country": "Japan",
+    "clues": [
+      "Onsen bathing tradition",
+      "Precision craftsmanship",
+      "Seasonal flower viewing culture",
+      "Convenience store culture",
+      "Strong etiquette traditions"
+    ]
+  },
+  {
+    "country": "Mongolia",
+    "clues": [
+      "Vast steppe landscapes",
+      "Nomadic heritage",
+      "Yurt dwelling traditions",
+      "Horse-centered culture",
+      "Sparse population density"
+    ]
+  },
+  {
+    "country": "Laos",
+    "clues": [
+      "Landlocked Southeast Asian nation",
+      "Strong Buddhist influence",
+      "Mountainous and river landscapes",
+      "Slow-paced cultural atmosphere",
+      "Sticky rice tradition"
+    ]
+  },
+  {
+    "country": "Burkina Faso",
+    "clues": [
+      "Landlocked West African nation",
+      "Strong cultural festival traditions",
+      "Sahel-region landscapes",
+      "Cotton production",
+      "French language influence"
+    ]
+  },
+  {
+    "country": "Philippines",
+    "clues": [
+      "Large island archipelago",
+      "Strong karaoke culture",
+      "Typhoon-prone nation",
+      "Spanish and American cultural influences",
+      "Basketball popularity"
+    ]
+  },
+  {
+    "country": "Tonga",
+    "clues": [
+      "Pacific island kingdom",
+      "Polynesian cultural traditions",
+      "Volcanic island landscapes",
+      "Strong rugby culture",
+      "Monarchy in Oceania"
+    ]
+  },
+  {
+    "country": "Taiwan",
+    "clues": [
+      "Island with strong technology industry",
+      "Mountainous terrain",
+      "Night market culture",
+      "Tea heritage",
+      "Mandarin-speaking society"
+    ]
+  },
+  {
+    "country": "Sri Lanka",
+    "clues": [
+      "Island nation in South Asia",
+      "Strong tea-growing tradition",
+      "Rich Buddhist heritage",
+      "Tropical biodiversity",
+      "Famous for gemstones"
+    ]
+  },
+  {
+    "country": "Thailand",
+    "clues": [
+      "Street food culture",
+      "Strong Buddhist influence",
+      "Known for tropical islands and beaches",
+      "Southeast Asian nation never formally colonized",
+      "Elephant cultural symbolism"
+    ]
+  },
+  {
+    "country": "Solomon Islands",
+    "clues": [
+      "Pacific island nation",
+      "Rich marine biodiversity",
+      "Melanesian cultural roots",
+      "Tropical rainforest landscapes",
+      "Scattered island geography"
+    ]
+  },
+  {
+    "country": "Turkey",
+    "clues": [
+      "Crossroads of Europe and Asia",
+      "Tea-drinking culture",
+      "Historic Ottoman influence",
+      "Rich carpet-making traditions",
+      "Famous for hospitality and bazaars"
+    ]
+  },
+  {
+    "country": "Turkmenistan",
+    "clues": [
+      "Desert-dominated landscapes",
+      "Central Asian nation",
+      "Large natural gas reserves",
+      "Carpet-making traditions",
+      "Horse-breeding heritage"
+    ]
+  },
+  {
+    "country": "Tunisia",
+    "clues": [
+      "Mediterranean and desert landscapes",
+      "Ancient trade and empire history",
+      "North African nation",
+      "Olive-growing tradition",
+      "Strong Arab and Berber influences"
+    ]
+  },
+  {
+    "country": "Morocco",
+    "clues": [
+      "Colorful market culture",
+      "Atlas mountain landscapes",
+      "Rich carpet-making traditions",
+      "Strong mint tea culture",
+      "Arab, Berber, and Mediterranean influences"
+    ]
+  },
+  {
+    "country": "Republic of the Congo",
+    "clues": [
+      "Central African nation",
+      "Dense rainforest regions",
+      "French language influence",
+      "Congo River connections",
+      "Rich biodiversity"
+    ]
+  },
+  {
+    "country": "Zimbabwe",
+    "clues": [
+      "Landlocked Southern African nation",
+      "Famous stone ruins",
+      "Rich wildlife reserves",
+      "Victoria Falls proximity",
+      "Strong Shona cultural influence"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "clues": [
+      "Strategic maritime location",
+      "Horn of Africa nation",
+      "Desert landscapes",
+      "Important shipping routes",
+      "Salt lake landscapes"
+    ]
+  },
+  {
+    "country": "Botswana",
+    "clues": [
+      "Large diamond industry",
+      "Landlocked Southern African nation",
+      "Rich wildlife safaris",
+      "Kalahari Desert landscapes",
+      "Strong conservation reputation"
+    ]
+  },
+  {
+    "country": "Mozambique",
+    "clues": [
+      "Indian Ocean coastline",
+      "Portuguese language influence",
+      "Rich marine biodiversity",
+      "Cashew production",
+      "Southeastern African nation"
+    ]
+  },
+  {
+    "country": "Zambia",
+    "clues": [
+      "Landlocked Southern African nation",
+      "Rich copper mining industry",
+      "Safari wildlife tourism",
+      "Victoria Falls proximity",
+      "Large river systems"
+    ]
+  },
+  {
+    "country": "Kenya",
+    "clues": [
+      "World-famous long-distance runners",
+      "Safari tourism",
+      "Great Rift Valley landscapes",
+      "Strong tea production",
+      "Swahili cultural influence"
+    ]
+  },
+  {
+    "country": "Gambia",
+    "clues": [
+      "Small West African nation",
+      "Country shaped around a river",
+      "Atlantic coastline",
+      "Birdwatching tourism",
+      "English language influence"
+    ]
+  },
+  {
+    "country": "Guinea",
+    "clues": [
+      "West African nation",
+      "French language influence",
+      "Rich bauxite resources",
+      "Tropical and highland landscapes",
+      "Strong musical traditions"
+    ]
+  },
+  {
+    "country": "Algeria",
+    "clues": [
+      "Largest country in Africa by area",
+      "Sahara Desert landscapes",
+      "North African nation",
+      "Oil and gas economy",
+      "Arab and Berber influences"
+    ]
+  },
+  {
+    "country": "Ghana",
+    "clues": [
+      "West African nation",
+      "Strong cocoa production",
+      "Gold mining history",
+      "English language influence",
+      "Rich drumming traditions"
+    ]
+  },
+  {
+    "country": "Burundi",
+    "clues": [
+      "Landlocked East African nation",
+      "Highland landscapes",
+      "Coffee-growing tradition",
+      "Great Lakes region",
+      "Drumming cultural heritage"
+    ]
+  },
+  {
+    "country": "Lesotho",
+    "clues": [
+      "Mountain kingdom",
+      "Landlocked within another country",
+      "High-altitude landscapes",
+      "Traditional blanket culture",
+      "Southern African nation"
+    ]
+  },
+  {
+    "country": "Malawi",
+    "clues": [
+      "Large freshwater lake",
+      "Landlocked Southeast African nation",
+      "Agricultural economy",
+      "Warm hospitality reputation",
+      "Rich fishing traditions"
+    ]
+  },
+  {
+    "country": "Nauru",
+    "clues": [
+      "Tiny Pacific island nation",
+      "Phosphate mining history",
+      "Very small population",
+      "Coral island landscapes",
+      "Remote oceanic location"
+    ]
+  },
+  {
+    "country": "South Africa",
+    "clues": [
+      "Multiple capital cities",
+      "Safari wildlife tourism",
+      "Rich mineral resources",
+      "Diverse cultural identities",
+      "Famous for wine production"
+    ]
+  },
+  {
+    "country": "Tajikistan",
+    "clues": [
+      "Mountainous Central Asian nation",
+      "Persian cultural influence",
+      "Landlocked country",
+      "High-altitude landscapes",
+      "Historic Silk Road connections"
+    ]
+  },
+  {
+    "country": "Angola",
+    "clues": [
+      "Portuguese language influence",
+      "Oil-rich economy",
+      "Atlantic coastline",
+      "Southern African nation",
+      "Rich musical traditions"
+    ]
+  },
+  {
+    "country": "Nigeria",
+    "clues": [
+      "Most populous country in Africa",
+      "Large film industry influence",
+      "Rich linguistic diversity",
+      "Oil-rich economy",
+      "Strong Afrobeats culture"
+    ]
+  },
+  {
+    "country": "Chad",
+    "clues": [
+      "Landlocked Central African nation",
+      "Sahara and Sahel landscapes",
+      "Named after a large lake",
+      "French and Arabic influences",
+      "Desert and savanna regions"
+    ]
+  },
+  {
+    "country": "Liberia",
+    "clues": [
+      "West African coastline",
+      "English language influence",
+      "Historic ties to freed African Americans",
+      "Tropical rainforest regions",
+      "Founded in the 19th century"
+    ]
+  },
+  {
+    "country": "Egypt",
+    "clues": [
+      "Ancient civilization legacy",
+      "River-centered history",
+      "Desert landscapes",
+      "Strong Arab influence",
+      "Rich archaeological heritage"
+    ]
+  },
+  {
+    "country": "Benin",
+    "clues": [
+      "West African nation",
+      "French language influence",
+      "Historic kingdom heritage",
+      "Strong voodoo cultural roots",
+      "Atlantic coastline"
+    ]
+  },
+  {
+    "country": "Gabon",
+    "clues": [
+      "Central African nation",
+      "Dense rainforest cover",
+      "Oil-rich economy",
+      "Atlantic coastline",
+      "Rich wildlife biodiversity"
+    ]
+  },
+  {
+    "country": "Tanzania",
+    "clues": [
+      "Home to Africa's tallest mountain",
+      "Swahili cultural influence",
+      "Safari wildlife tourism",
+      "Indian Ocean coastline",
+      "Famous island archipelago"
+    ]
+  },
+  {
+    "country": "Somalia",
+    "clues": [
+      "Horn of Africa nation",
+      "Longest mainland coastline in Africa",
+      "Nomadic pastoral traditions",
+      "Strong camel culture",
+      "Indian Ocean connections"
+    ]
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "clues": [
+      "Central African nation",
+      "Dense rainforest regions",
+      "Rich mineral resources",
+      "Named after a major river",
+      "French language influence"
+    ]
+  },
+  {
+    "country": "Mali",
+    "clues": [
+      "Historic empire legacy",
+      "Sahara and Sahel landscapes",
+      "Rich musical traditions",
+      "Ancient trade route heritage",
+      "Landlocked West African nation"
+    ]
+  },
+  {
+    "country": "Sierra Leone",
+    "clues": [
+      "West African coastline",
+      "English language influence",
+      "Rich diamond resources",
+      "Tropical rainforest regions",
+      "Historic ties to freed people"
+    ]
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "clues": [
+      "Major cocoa production",
+      "French language influence",
+      "West African coastline",
+      "Rich cultural diversity",
+      "Strong agricultural economy"
+    ]
+  },
+  {
+    "country": "Uganda",
+    "clues": [
+      "Landlocked East African nation",
+      "Great Lakes region",
+      "Rich wildlife diversity",
+      "Mountain gorilla tourism nearby",
+      "Strong coffee-growing tradition"
+    ]
+  },
+  {
+    "country": "Namibia",
+    "clues": [
+      "Desert-dominated landscapes",
+      "Atlantic coastline",
+      "Known for vast sand dunes",
+      "Sparse population density",
+      "Rich wildlife conservation"
+    ]
+  },
+  {
+    "country": "Senegal",
+    "clues": [
+      "West African coastline",
+      "French language influence",
+      "Strong music and dance traditions",
+      "Historic island heritage",
+      "Known for wrestling culture"
+    ]
+  },
+  {
+    "country": "Libya",
+    "clues": [
+      "North African nation",
+      "Vast desert landscapes",
+      "Oil-rich economy",
+      "Mediterranean coastline",
+      "Ancient Roman archaeological sites"
+    ]
+  },
+  {
+    "country": "Cameroon",
+    "clues": [
+      "Central African nation",
+      "French and English influences",
+      "Rich biodiversity",
+      "Nicknamed 'Africa in miniature'",
+      "Volcanic mountain landscapes"
+    ]
+  },
+  {
+    "country": "Central African Republic",
+    "clues": [
+      "Landlocked Central African nation",
+      "Dense forest and savanna landscapes",
+      "French language influence",
+      "Rich wildlife biodiversity",
+      "Named after its geographic location"
+    ]
+  },
+  {
+    "country": "Ethiopia",
+    "clues": [
+      "Ancient Christian heritage",
+      "Coffee origin connections",
+      "Highland landscapes",
+      "Unique calendar system",
+      "Never formally colonized in modern history"
+    ]
+  },
+  {
+    "country": "Guinea-Bissau",
+    "clues": [
+      "Small West African nation",
+      "Portuguese language influence",
+      "Coastal mangrove landscapes",
+      "Cashew production",
+      "Island archipelago nearby"
+    ]
+  },
+  {
+    "country": "Madagascar",
+    "clues": [
+      "Large island nation",
+      "Unique wildlife found nowhere else",
+      "Indian Ocean location",
+      "Baobab tree landscapes",
+      "Blended African and Asian influences"
+    ]
+  },
+  {
+    "country": "Rwanda",
+    "clues": [
+      "Land of a thousand hills",
+      "Mountain gorilla tourism",
+      "Landlocked East African nation",
+      "Strong coffee-growing tradition",
+      "Known for cleanliness initiatives"
+    ]
+  },
+  {
+    "country": "Nepal",
+    "clues": [
+      "Mountain kingdom history",
+      "Home to the world's highest peak",
+      "Strong Buddhist and Hindu influences",
+      "Himalayan landscapes",
+      "Landlocked South Asian nation"
+    ]
+  },
+  {
+    "country": "South Sudan",
+    "clues": [
+      "One of the world's youngest countries",
+      "Landlocked East-Central African nation",
+      "Large wetland regions",
+      "Rich cultural diversity",
+      "Nile River connections"
+    ]
+  },
+  {
+    "country": "Niger",
+    "clues": [
+      "Landlocked West African nation",
+      "Sahara and Sahel landscapes",
+      "Named after a major river",
+      "French language influence",
+      "Large desert regions"
+    ]
+  },
+  {
+    "country": "South Korea",
+    "clues": [
+      "Strong technology industry",
+      "K-pop global influence",
+      "Mountainous landscapes",
+      "Fast-paced urban culture",
+      "Korean Peninsula nation"
+    ]
+  },
+  {
+    "country": "Qatar",
+    "clues": [
+      "Small but wealthy Gulf nation",
+      "Natural gas-rich economy",
+      "Desert peninsula",
+      "Strong aviation connections",
+      "Rapid urban development"
+    ]
+  },
+  {
+    "country": "Eritrea",
+    "clues": [
+      "Horn of Africa nation",
+      "Red Sea coastline",
+      "Mountainous highlands",
+      "Italian architectural influence",
+      "Multi-ethnic society"
+    ]
+  },
+  {
+    "country": "Greece",
+    "clues": [
+      "Ancient philosophical heritage",
+      "Mediterranean island landscapes",
+      "Olive-growing tradition",
+      "Mountain and coastal geography",
+      "Rich mythological influence"
+    ]
+  },
+  {
+    "country": "Mauritania",
+    "clues": [
+      "Sahara Desert landscapes",
+      "West African nation",
+      "Long iron ore trains",
+      "Arabic and French influences",
+      "Atlantic coastline"
+    ]
+  },
+  {
+    "country": "Lithuania",
+    "clues": [
+      "Baltic nation",
+      "Basketball enthusiasm",
+      "Forest-rich landscapes",
+      "Historic grand duchy heritage",
+      "Strong digital development"
+    ]
+  },
+  {
+    "country": "Papua New Guinea",
+    "clues": [
+      "Island nation north of Australia",
+      "Extreme linguistic diversity",
+      "Dense tropical rainforest",
+      "Strong tribal traditions",
+      "Rich marine biodiversity"
+    ]
+  },
+  {
+    "country": "Vatican City",
+    "clues": [
+      "World's smallest country",
+      "Religious significance",
+      "Enclave within another nation",
+      "Renaissance artistic heritage",
+      "Spiritual leadership center"
+    ]
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "clues": [
+      "Caribbean island nation",
+      "Volcanic landscapes",
+      "Known for sailing tourism",
+      "Island chain geography",
+      "Strong cricket culture"
+    ]
+  },
+  {
+    "country": "Togo",
+    "clues": [
+      "Narrow West African nation",
+      "French language influence",
+      "Atlantic coastline",
+      "Rich cultural diversity",
+      "Palm and agricultural economy"
+    ]
+  },
+  {
+    "country": "Eswatini",
+    "clues": [
+      "Southern African kingdom",
+      "Mountain and savanna landscapes",
+      "Landlocked nation",
+      "Strong royal traditions",
+      "Formerly known by another name"
+    ]
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "clues": [
+      "Twin-island Caribbean nation",
+      "Volcanic landscapes",
+      "Sugar industry history",
+      "Small island population",
+      "Cricket enthusiasm"
+    ]
+  },
+  {
+    "country": "Comoros",
+    "clues": [
+      "Indian Ocean island nation",
+      "Volcanic island landscapes",
+      "Arabic, African, and French influences",
+      "Ylang-ylang production",
+      "Small archipelago nation"
+    ]
+  },
+  {
+    "country": "Mauritius",
+    "clues": [
+      "Indian Ocean island nation",
+      "Multicultural society",
+      "Luxury beach tourism",
+      "Sugarcane production",
+      "Dodo bird history"
+    ]
+  },
+  {
+    "country": "Uzbekistan",
+    "clues": [
+      "Central Asian nation",
+      "Historic Silk Road cities",
+      "Double-landlocked country",
+      "Rich Islamic architecture",
+      "Cotton production"
+    ]
+  },
+  {
+    "country": "Ecuador",
+    "clues": [
+      "Named after an imaginary line",
+      "Andean mountain landscapes",
+      "Pacific coastline",
+      "Rich biodiversity",
+      "Uses the US dollar"
+    ]
+  },
+  {
+    "country": "Bangladesh",
+    "clues": [
+      "River-dominated landscapes",
+      "Delta region nation",
+      "Rich textile industry",
+      "Dense population",
+      "Bengali cultural heritage"
+    ]
+  },
+  {
+    "country": "Singapore",
+    "clues": [
+      "City-state nation",
+      "Multicultural society",
+      "Strict cleanliness reputation",
+      "Major global port",
+      "Famous hawker food culture"
+    ]
+  },
+  {
+    "country": "Monaco",
+    "clues": [
+      "Tiny European microstate",
+      "Luxury lifestyle reputation",
+      "Mediterranean coastline",
+      "Famous motorsport event",
+      "One of the world's wealthiest places"
+    ]
+  },
+  {
+    "country": "Liechtenstein",
+    "clues": [
+      "Tiny Alpine nation",
+      "Landlocked microstate",
+      "Mountain landscapes",
+      "Constitutional monarchy",
+      "Strong financial sector"
+    ]
+  },
+  {
+    "country": "Malta",
+    "clues": [
+      "Mediterranean island nation",
+      "Historic fortress architecture",
+      "Strong British influence",
+      "Rich maritime history",
+      "Semitic-rooted language"
+    ]
+  },
+  {
+    "country": "Palestine",
+    "clues": [
+      "Levantine cultural roots",
+      "Olive cultivation traditions",
+      "Mediterranean and desert landscapes",
+      "Deep historical and religious significance",
+      "Rich embroidery heritage"
+    ]
+  },
+  {
+    "country": "Fiji",
+    "clues": [
+      "Pacific island nation",
+      "Tropical island landscapes",
+      "Strong rugby culture",
+      "Melanesian cultural roots",
+      "Known for bottled water exports"
+    ]
+  },
+  {
+    "country": "Australia",
+    "clues": [
+      "Island continent nation",
+      "Unique wildlife found nowhere else",
+      "Strong beach culture",
+      "Large desert interior",
+      "Cricket and rugby popularity"
+    ]
+  },
+  {
+    "country": "Sudan",
+    "clues": [
+      "Nile River connections",
+      "Sahara and Sahel landscapes",
+      "Historic Nubian heritage",
+      "Northeast African nation",
+      "Arabic cultural influence"
+    ]
+  }
+]
