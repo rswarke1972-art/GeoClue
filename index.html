@@ -1,47 +1,53 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>GeoClue</title>
+
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
   <div class="container">
+
     <h1>🌍 GeoClue</h1>
-    <p class="tagline">Can you guess the country from subtle clues?</p>
+
+    <p class="tagline">
+      Can you guess the country from subtle clues?
+    </p>
 
     <div class="game-box">
+
+      <!-- Score -->
       <div class="score-container">
-  <p id="score">🏆 Score: 0</p>
-</div>
+        <p id="score">🏆 Score: 0</p>
+      </div>
+
+      <!-- Clues -->
       <h2 class="clue-title">🧩 Clues</h2>
+
       <ul id="clue-list">
         <li>Loading clues...</li>
       </ul>
 
-      <form autocomplete="off">
-  <input
-    type="text"
-    id="guess-input"
-    placeholder="Enter country name"
-    autocomplete="off"
-    autocorrect="off"
-    autocapitalize="off"
-    spellcheck="false"
-  />
-</form>
-
-      <div class="buttons">
-        <button id="submit-btn">Submit Guess</button>
-        <button id="next-btn">Next Country</button>
+      <!-- Quiz Options -->
+      <div
+        class="options-container"
+        id="options-container"
+      >
+        <!-- JS will generate options -->
       </div>
 
+      <!-- Result -->
       <p id="result"></p>
+
     </div>
+
   </div>
 
   <script src="script.js"></script>
+
 </body>
 </html>
